@@ -26,10 +26,6 @@ public class Ejercicio8 {
             }
             System.out.println("");
         }
-
-
-
-
         sc.close();
     }
 }
