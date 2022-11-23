@@ -22,3 +22,4 @@ public class Ejercicio1{
         }
     }
 }
+//En los espacios no inicializados se pinta un 0
