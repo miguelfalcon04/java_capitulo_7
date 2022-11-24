@@ -42,12 +42,6 @@ public class Ejercicio7 {
                 System.out.print(n[i]+" ");
             }
         }
-
-
-
-
-
-
         sc.close();
     }
 }
